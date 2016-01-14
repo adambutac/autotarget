@@ -2,7 +2,7 @@
 
 This is an app that I wrote a few summers ago to pass the time.
 
-Using an open source library Openimaj I was able to capture data from my camera,
+Using an open source library <a href="http://openimaj.org/">Openimaj</a> I was able to capture data from my camera,
 and use powerful image manipulation algorithms all in the comfort of java.
 
 An image is taken every few seconds to use as a "mask" against the live camera feed
